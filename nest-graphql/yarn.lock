@@ -4217,9 +4217,7 @@ graphql-tools@^4.0.0:
     uuid "^3.1.0"
 
 graphql-tools@^7.0.2:
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/graphql-tools/-/graphql-tools-7.0.2.tgz#ea8a92f1daa1429c6850497bcf8f83ac64fc0fa5"
-  integrity sha512-dEthp7uFH/Myrk1x9d/fHF4n0yn8s0ON496pd1VwZ2D7cGws4DnPzo6UciuWhCr+fyq73LzkqPoYtWgKmXjm4A==
+  version "7.0.5"
   dependencies:
     "@graphql-tools/batch-delegate" "^7.0.0"
     "@graphql-tools/batch-execute" "^7.0.0"
